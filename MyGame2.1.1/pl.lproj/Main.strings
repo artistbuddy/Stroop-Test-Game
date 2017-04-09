@@ -1,0 +1,123 @@
+/* Class = "UILabel"; text = "Introduce yourself"; ObjectID = "2HS-YH-VFm"; */
+"2HS-YH-VFm.text" = "Przedstaw się";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "4CC-Bm-K8d"; */
+"4CC-Bm-K8d.title" = "Wróć";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "9dX-db-oZo"; */
+"9dX-db-oZo.normalTitle" = "Pomiń";
+
+/* Class = "UILabel"; text = "question"; ObjectID = "149-Bx-D6m"; */
+"149-Bx-D6m.text" = "Pytanie";
+
+/* Class = "UIViewController"; title = "GameView"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "GameView";
+
+/* Class = "UILabel"; text = "Handednes"; ObjectID = "BwS-YH-LkB"; */
+"BwS-YH-LkB.text" = "Dominująca ręka";
+
+/* Class = "UISegmentedControl"; FNR-OH-tY5.segmentTitles[0] = "Man"; ObjectID = "FNR-OH-tY5"; */
+"FNR-OH-tY5.segmentTitles[0]" = "Mężczyzna";
+
+/* Class = "UISegmentedControl"; FNR-OH-tY5.segmentTitles[1] = "Woman"; ObjectID = "FNR-OH-tY5"; */
+"FNR-OH-tY5.segmentTitles[1]" = "Kobieta";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "GHg-Vp-f0L"; */
+"GHg-Vp-f0L.text" = "Tytuł";
+
+/* Class = "UILabel"; text = "Swipe left to continue"; ObjectID = "Mqi-GW-v8H"; */
+"Mqi-GW-v8H.text" = "Przesuń w lewo by kontynuować";
+
+/* Class = "UILabel"; text = "Rules"; ObjectID = "N5f-ti-Cpb"; */
+"N5f-ti-Cpb.text" = "Zasady";
+
+/* Class = "UITextView"; text = "You gonna play the Color Game. You'll see a colored text. Answer what color is that text. Remember to select meaning of text not color. Give it a try!"; ObjectID = "O5Z-JV-aJj"; */
+"O5Z-JV-aJj.text" = "Zagrasz w grę \"Color Game\". Zobaczysz kolorowy napis. Odpowiedz w jakim jest kolorze. Pamiętaj, żeby zaznaczyć znaczenie tekstu, a nie kolor. Zróbmy teraz próbę!";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "OWB-lo-y82"; */
+"OWB-lo-y82.normalTitle" = "Dalej";
+
+/* Class = "UILabel"; text = "Swipe left to continue"; ObjectID = "P1H-di-aB5"; */
+"P1H-di-aB5.text" = "Przesuń w lewo by kontynuować";
+
+/* Class = "UITextView"; text = "This app is about lateralisation and impact how it affects on score. By playing this game you'll help me finish my disertation."; ObjectID = "P87-oH-kXZ"; */
+"P87-oH-kXZ.text" = "Ta gra sprawdza wpływ lateralizacji funkcji mózgu na wyniki uzyskiwane w grze. Grając w nią pomagasz mi w mojej pracy inżynierskiej.";
+
+/* Class = "UILabel"; text = "What color is the text?"; ObjectID = "Qwn-TN-x1H"; */
+"Qwn-TN-x1H.text" = "W jakim kolorze jest tekst?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RF0-RO-KOC"; */
+"RF0-RO-KOC.normalTitle" = "Zacznij badanie";
+
+/* Class = "UILabel"; text = "Swipe left to continue"; ObjectID = "Rl7-Fs-Jh6"; */
+"Rl7-Fs-Jh6.text" = "Przesuń w lewo by kontynuować";
+
+/* Class = "UILabel"; text = "game progress"; ObjectID = "SV7-rt-Rig"; */
+"SV7-rt-Rig.text" = "postęp gry";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "T41-A7-bei"; */
+"T41-A7-bei.text" = "Wiek";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "UG8-Tm-Abn"; */
+"UG8-Tm-Abn.text" = "Tytuł";
+
+/* Class = "UILabel"; text = "What color is the text?"; ObjectID = "VF8-st-HKP"; */
+"VF8-st-HKP.text" = "W jakim kolorze jest napis?";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "WOt-vk-Xhb"; */
+"WOt-vk-Xhb.text" = "Podtytuł";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "WSG-28-4ob"; */
+"WSG-28-4ob.text" = "Podtytuł";
+
+/* Class = "UILabel"; text = "Hi"; ObjectID = "WdQ-tP-oy9"; */
+"WdQ-tP-oy9.text" = "Cześć";
+
+/* Class = "UILabel"; text = "Demo"; ObjectID = "WjB-Fb-0tj"; */
+"WjB-Fb-0tj.text" = "Próba";
+
+/* Class = "UIViewController"; title = "InfoView"; ObjectID = "aeB-TB-Ko1"; */
+"aeB-TB-Ko1.title" = "InfoView";
+
+/* Class = "UILabel"; text = "Instruction"; ObjectID = "e84-7I-bLx"; */
+"e84-7I-bLx.text" = "Instrukcja";
+
+/* Class = "UILabel"; text = "hand"; ObjectID = "ehf-Gw-rnb"; */
+"ehf-Gw-rnb.text" = "ręka";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "jqH-0n-8mI"; */
+"jqH-0n-8mI.text" = "Start";
+
+/* Class = "UILabel"; text = "Select meaning of text!"; ObjectID = "kBd-OL-TRx"; */
+"kBd-OL-TRx.text" = "Wybierz znaczenie tekstu!";
+
+/* Class = "UIButton"; normalTitle = "play"; ObjectID = "mMF-nm-sVz"; */
+"mMF-nm-sVz.normalTitle" = "graj";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "oNg-kZ-iYc"; */
+"oNg-kZ-iYc.title" = "Tytuł";
+
+/* Class = "UILabel"; text = "Sex"; ObjectID = "pxb-1m-Q0g"; */
+"pxb-1m-Q0g.text" = "Płeć";
+
+/* Class = "UILabel"; text = "0s"; ObjectID = "q4x-4g-VZY"; */
+"q4x-4g-VZY.text" = "0s";
+
+/* Class = "UILabel"; text = "Select meaning of text!"; ObjectID = "s6V-c6-erL"; */
+"s6V-c6-erL.text" = "Wybierz znaczenie tekstu";
+
+/* Class = "UITextView"; text = "The game has two parts. First, you play 3 times using right hand. Second, you play 3 times using left hand. Your goal is to answer as many times as you can in each game for 30 seconds."; ObjectID = "sqJ-PC-8q7"; */
+"sqJ-PC-8q7.text" = "Gra podzielona jest na dwie części. W pierwszej zagrasz prawą ręką, a w drugiej lewą. Twoim celem jest udzielić tak dużo poprawnych odpowiedzi jak tylko potrafisz. Każda gra trwa 30 sekund.";
+
+/* Class = "UISegmentedControl"; t8r-AO-bHf.segmentTitles[0] = "left handed"; ObjectID = "t8r-AO-bHf"; */
+"t8r-AO-bHf.segmentTitles[0]" = "lewa";
+
+/* Class = "UISegmentedControl"; t8r-AO-bHf.segmentTitles[1] = "right handed"; ObjectID = "t8r-AO-bHf"; */
+"t8r-AO-bHf.segmentTitles[1]" = "prawa";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uiI-hV-7VH"; */
+"uiI-hV-7VH.normalTitle" = "Wyniki";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zOE-sb-zb1"; */
+"zOE-sb-zb1.text" = "Etykieta";
+

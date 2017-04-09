@@ -1,0 +1,111 @@
+/* Color name */
+"Black" = "Czarny";
+
+/* Color name */
+"Blue" = "Niebieski";
+
+/* Color name */
+"Brown" = "Brązowy";
+
+/* continue game */
+"Continue with %@ thumb" = "Kontynuuj %@ ręką";
+
+/* Color name */
+"Dark Gray" = "Ciemny szary";
+
+/* no more games */
+"Finish" = "Koniec";
+
+/* game of games */
+"Game %d of %d" = "Gra %1$d z %2$d";
+
+/* Sex picker in AddPlayerView */
+"Gender" = "Inna";
+
+/* Color name */
+"Gray" = "Szary";
+
+/* Color name */
+"Green" = "Zielony";
+
+/* title content in Hi View Controller */
+"Hi" = "Cześć";
+
+/* title content in Instruction View Controller */
+"Instruction" = "Instrukcja";
+
+/* Handedness picker */
+"Left-Handed" = "Lewa";
+
+/* start first game */
+"Let's play" = "Zaczynamy";
+
+/* Color name */
+"Magenta" = "Fuksja";
+
+/* Sex picker in AddPlayerView */
+"Man" = "Mężczyzna";
+
+/* finished demo game, next button */
+"Next" = "Dalej";
+
+/* next another in row game */
+"Next game" = "Następna gra";
+
+/* change hand */
+"Now change thumb to %@" = "Teraz zmień rękę na %@";
+
+/* Color name */
+"Orange" = "Pomarańczowy";
+
+/* Color name */
+"Pink" = "Różowy";
+
+/* first play */
+"Play with %@ thumb" = "Graj %@ ręką";
+
+/* Color name */
+"Purple" = "Fioletowy";
+
+/* Color name */
+"Red" = "Czerwony";
+
+/* Handedness picker */
+"Right-Handed" = "Prawa";
+
+/* title content in Rules View Controller */
+"Rules" = "Zasady";
+
+/* Thanks for playing game (end) */
+"Thank you!" = "Dziękuję!";
+
+/* content in Instruction View Controller */
+"The game has two parts. First, you play 3 times using right hand. Second, you play 3 times using left hand. Your goal is to answer as many times as you can in each game for 30 seconds." = "Gra podzielona jest na dwie części. W pierwszej zagrasz prawą ręką, a w drugiej lewą. Twoim celem jest udzielić tak dużo poprawnych odpowiedzi jak tylko potrafisz. Każda gra trwa 30 sekund.";
+
+/* content in Hi View Controller */
+"This app is about lateralisation and impact how it affects on score. By playing this game you'll help me finish my disertation." = "Ta gra sprawdza wpływ lateralizacji funkcji mózgu na wyniki uzyskiwane w grze. Grając w nią pomagasz mi w mojej pracy inżynierskiej.";
+
+/* Sex picker in AddPlayerView */
+"Woman" = "Kobieta";
+
+/* wrong answer in demo game */
+"Wrong answer" = "Błędna odpowiedź";
+
+/* Color name */
+"Yellow" = "Żółty";
+
+/* finish demo game */
+"You are ready to play" = "Super, o to chodzi!";
+
+/* content in Rules View Controller */
+"You gonna play the Color Game. You'll see a colored text. Answer what color is that text. Remember to select meaning of text not color. Give it a try!" = "Zagrasz w grę \"Color Game\". Zobaczysz kolorowy napis. Odpowiedz w jakim jest kolorze. Pamiętaj, żeby zaznaczyć znaczenie tekstu, a nie kolor. Zróbmy teraz próbę!";
+
+/* now play with hand */
+"any" = "dowolną";
+
+/* now play with hand */
+"left" = "lewą";
+
+/* now play with hand */
+"right" = "prawą";
+
